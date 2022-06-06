@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/acciojob/static/css/main.1da57e83.css",
+    "main.js": "/acciojob/static/js/main.90cc653b.js",
+    "static/js/787.a5a00b74.chunk.js": "/acciojob/static/js/787.a5a00b74.chunk.js",
+    "static/media/Gilroy-SemiBold.ttf": "/acciojob/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-ExtraBold.otf": "/acciojob/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
+    "static/media/fold2.webp": "/acciojob/static/media/fold2.e0c7d15c7d018bdb2c5b.webp",
+    "static/media/fold3.webp": "/acciojob/static/media/fold3.57163f98fcd63e436410.webp",
+    "static/media/fold1.png": "/acciojob/static/media/fold1.3f1b36e3b8620579270f.png",
+    "static/media/fold4.png": "/acciojob/static/media/fold4.dd414cbf01f17cfe28d6.png",
+    "index.html": "/acciojob/index.html",
+    "main.1da57e83.css.map": "/acciojob/static/css/main.1da57e83.css.map",
+    "main.90cc653b.js.map": "/acciojob/static/js/main.90cc653b.js.map",
+    "787.a5a00b74.chunk.js.map": "/acciojob/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da57e83.css",
+    "static/js/main.90cc653b.js"
+  ]
+}
